@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Akash Halli
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </h1>
 
 <h3 align="center">Web Developer | Backend Enthusiast | CS Student @ KLE Tech</h3>
@@ -56,7 +56,7 @@
 - 📝 Published research at ICSC 2025 (IEEE):  
   *Chronic Kidney Disease ML Classification*
 
-- 🥈 Hackathon Finalist (x2):  
+- 🥈 Hackathon Runners (x2):  
   *Pleiades 2025 | Hackoverflow 2024*
 
 ---
@@ -65,10 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakashhalli&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashhalli&theme=tokyonight" alt="streak stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashhalli&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
@@ -76,7 +72,7 @@
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: [akashhalli.vercel.app](https://akashhalli.vercel.app)
-- 📩 Email: [aakashhalli@gmail.com](mailto:aakashhalli@gmail.com)
+- 📩 Email: [aakashhalli@gmail.com](mailto:akashhallidev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/akash-halli](https://www.linkedin.com/in/akash-halli-3ab6aa231/)
 
 ---
